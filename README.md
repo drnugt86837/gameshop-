@@ -1,1 +1,1 @@
-ameshop 
+Gameshop 
